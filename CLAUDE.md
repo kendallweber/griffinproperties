@@ -31,6 +31,12 @@ identifiers**. Those live in Diane's Google Drive:
   https://docs.google.com/document/d/1JyiuN7lvTJPGwZHKEJngRCGtwCv6RB6DvVuC7EjnHuA/edit
   Read it at the start of each session and update it (via the Google Docs
   connector, same file and link) whenever items are added or resolved.
+- **Handoff brief** (everything Griff has learned: entities, tax status, bookkeeping
+  rules, systems, findings, status): Google Doc "Griff Handoff Brief"
+  https://docs.google.com/document/d/1sBqLSHbJlNP_POkz51AXLZ6LigxHraLCPK6Z2TuDOMY/edit
+  Read it first in any new session or account.
+- Tasks: Trello board "KW | Griffin Properties Tasks"
+  https://trello.com/b/MDGucTkq/kw-griffin-properties-tasks
 - Tax returns and filing instructions: Diane's Google Drive folders and chat uploads.
 
 Never copy SSNs, EINs, account numbers, or return figures into this repo.
